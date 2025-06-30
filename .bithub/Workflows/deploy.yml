@@ -1,5 +1,5 @@
 
-name: Node.js CI
+name: torenzo
 
 on:
   push:
